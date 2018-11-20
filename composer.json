@@ -40,9 +40,13 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Nats": "src",
-            "Nats\\Test": "src"
+        "psr-4": {
+            "Nats\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Nats\\Test\\": "src/"
         }
     }
 }
