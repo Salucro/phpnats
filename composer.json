@@ -1,9 +1,10 @@
 {
-    "name": "repejota/nats",
+    "name": "salucro/nats",
     "description": "A nats.io client in PHP",
     "type": "library",
     "minimum-stability": "dev",
     "license": "MIT",
+    "version": "dev-master",
     "require": {
         "ircmaxell/random-lib": "^1.2"
     },
